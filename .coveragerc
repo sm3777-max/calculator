@@ -1,0 +1,4 @@
+[run]
+source = calculator
+omit =
+    tests/*
